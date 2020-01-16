@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "an application that can be used to write, save, and delete notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locdandcoded/Note-taker.git"
+  },
+  "author": "Ebony Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locdandcoded/Note-taker/issues"
+  },
+  "homepage": "https://github.com/locdandcoded/Note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
